@@ -32,5 +32,6 @@ do
       model.smoothness_weight=0 \
       model.mmi_weight=0 \
       model.code_penalty=0 \
+
 done
 done
