@@ -1,0 +1,14 @@
+[project]
+name = "w2vu2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fairseq>=0.12.2",
+    "npy-append-array>=0.9.19",
+    "numpy<2",
+    "scikit-learn>=1.7.2",
+    "soundfile>=0.13.1",
+    "torchaudio==2.1.2",
+]
